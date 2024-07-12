@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+An artist who loves making music, painting, coding, story telling, and combining them all to make art
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+loves the outdoors, speding time with friends, and getting lost in a hobby.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[joshuaachorn@gmail.com](mailto:joshuaachorn@gmail.com)
