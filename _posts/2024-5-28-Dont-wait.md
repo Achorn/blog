@@ -17,9 +17,11 @@ Make it move from one side of the game board to the next, and repeat.
 Have camera follow the cube from behind
 I make these goals after i finish. I should start making these goals before i start the day to have a better focus
 
-…
+![_config.yml]({{ site.baseurl }}/images/dont-wait-02/cube.jpg)
 
 So i did it… It’s so utterly clunky and there’s already so much spaghetti code. But I did it.
+
+![_config.yml]({{ site.baseurl }}/images/dont-wait-02/movement.jpg)
 
 I can see ways to make the code cleaner and something I want to keep in mind is to not overly optimize. I spend so much time keeping things clean (not in the best way) that I forget to actually create (its easy to keep a house clean when its just a 5 by 5 room and nothing in it). And I can learn better organization skills while I build.
 
