@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: First Steps
 ---
 
 Entry 01 : Sun may 26 2024
