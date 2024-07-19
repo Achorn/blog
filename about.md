@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-An artist who loves making music, painting, coding, story telling, and combining them all to make art
+Combining my passion for music, coding, animation, and story telling to create beautiful gaming experiences.
 
 ### More Information
 
-loves the outdoors, speding time with friends, and getting lost in a hobby.
+Spending most of my time working on my space ship game, which this blog is dedicated to for now.
 
 ### Contact me
 

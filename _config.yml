@@ -9,7 +9,7 @@ name: Joshua Achorn
 description: Game Developer - Story Writer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/28990037?v=4
 
 #
 # Flags below are optional
@@ -22,8 +22,8 @@ footer-links:
   facebook:
   flickr:
   github: achorn
-  instagram:
-  linkedin:
+  instagram: vanachorn
+  linkedin: joshua-achorn
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
