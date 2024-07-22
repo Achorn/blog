@@ -3,15 +3,15 @@ layout: post
 title: Transitions
 ---
 
-The curtains of the film and games industries.
+The curtains of the film and game industries.
 
 ![_config.yml]({{ site.baseurl }}/images/posts/curtain.png)
 
 ## Background
 
-Sometimes, learning the etymology of something helps you get a better scope of what that something is and isn't… want to learn about databases? Learn the history of bookkeeping and physical inventories on paper. with transitions, just picture a videogame like a play and when the curtains are down, everyone and evertying is being put in their place. once the curtains are lifted. the play begins. scene over? bring the curtains back down for setting up the next scene. Rinse and repeat.
+Sometimes, learning the etymology of something helps you get a better scope of what that something is and isn't… Want to learn about databases? Learn the history of book-keeping and how people kept physical inventories on paper. with transitions, just picture a videogame as a play. When the curtains are down, everyone and everything is being put in their place. Once the curtains are lifted, the play begins. Scene over? Bring the curtains back down for setting up the next scene. Rinse and repeat.
 
-Todays task might be a little too in the weeds about a smaller part of game development but it called to me when i was sipping my morning coffee and I came up with a pretty cool solution for how to handle transitions in my game (or engine??) its starting to feel like im building a car and eventually i can replace some parts and the exterior for another type of car.. which feels great.
+I feel like working on transitions is a finer detail feature and there are other broad stroke tasks I should be working on, but something called to me when I was sipping my morning coffee and I came up with a pretty cool solution for how to handle transitions in my game (or engine??). It's starting to feel like I'm building a car and eventually can replace some parts and the exterior for another type of car.. which feels great.
 
 ## The Idea
 
@@ -25,10 +25,10 @@ Basically, I created a transition class, which can be plugged into my main game 
 - what action I want to take (change state)
 - what transition I want going out
 
-There are other bigger problems (features) I need to work out like quaternion values for better rotations of ships, cut scenes, and dialog. But maybe this is what im supposed to be working on right now. They’re all important in the grand scheme of things no?
+There are other bigger problems (features) I need to work out like quaternion values for better rotations of ships, cut scenes, and dialog. But maybe this is what I'm supposed to be working on right now. They’re all important in the grand scheme of things no?
 
-Lastly.. one thing I want to handle is controlling user inputs during transition. I dont want a user pushing something and then an event is triggered while the theoretical curtains are down. Im going to be adding a user input active Boolean into my user input class to let the transition state turn on and off the user inputs when its first transitioning and when it has ended. How fun.
+Lastly.. one thing I want to handle is controlling user inputs during transitions. I dont want a user pushing something and then an event is triggered while the theoretical curtains are down. Im going to be adding a user input active Boolean into my user input class to let the transition state turn on and off the user inputs when the transition starts and ends. How fun.
 
 ## Part 2. Actually implementing the transitions.
 
-Now that I think about it implementing smaller parts of the game might make it easier to implement harder parts of the game.. this is the way. Lets get stronger.
+Now that I think about it, implementing smaller parts of the game might make it easier to implement harder parts of the game.. this is the way. Let's get stronger.
