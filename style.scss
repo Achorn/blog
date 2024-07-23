@@ -19,7 +19,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $noto;
+  font: 18px/1.4 $open;
   color: $darkGray;
 }
 
@@ -207,7 +207,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $noto;
+  font-family: $open;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -226,7 +226,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $noto;
+  font-family: $open;
   font-size: 18px;
 
   @include mobile {
